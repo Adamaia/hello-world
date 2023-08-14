@@ -1,2 +1,2 @@
 # hello-world
-exercício AULA-SETUP FERRAMENTAS
+exercício AULA - SETUP DE FERRAMENTAS
